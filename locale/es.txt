@@ -1,0 +1,14 @@
+#: locale=es
+
+## Media
+
+### Título
+panorama_0D58EE98_0630_D0E7_4196_1DE57D71B94F.label = Alba Habitacion 01
+panorama_0C9405E7_0630_F029_4176_3F392F92965E.label = Alba Sala 01
+
+## Tour
+
+### Descripción
+
+### Título
+tour.name = Alba
