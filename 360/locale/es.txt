@@ -1,0 +1,25 @@
+#: locale=es
+
+## Media
+
+### Título
+panorama_8E1EDD79_8226_6546_41B9_10DF9A904826.label = PANO_1
+panorama_889EB50F_8227_9ADA_41CA_0058A8012B26.label = PANO_2
+panorama_88936BE5_8227_AD4E_41D5_2269FDB5F401.label = PANO_3
+panorama_8893A388_8227_BDC6_41C2_2598A8E5593D.label = PANO_4
+photo_96758F83_825E_E5CA_41D6_AC1D2D9D33C7.label = logo_sec59
+
+## Tour
+
+### Descripción
+
+### Título
+tour.name = Escuela Secundaria tecnica 59
+
+## Ventana
+
+### Cuerpo
+htmlText_91E5BA35_825A_AECE_41D5_FDB38468772E.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>AVISOS</B></SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"></SPAN></DIV></BODY></HTML></div>
+
+### Título
+window_91E26A35_825A_AECE_41DA_1D97F47983A3.title = SEPTIEMBRE
